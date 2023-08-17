@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Food</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="favorites">Favorites</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="what_would_you_like_to_it">What would you like to it</string>
+    <string name="area_india">Area: India</string>
+    <string name="category_beef">Category:Beef</string>
+    <string name="instruction">-Instruction :</string>
+    <string name="meal">Meal</string>
+    <string name="popular_item">Popular item</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_image">category Image</string>
+    <string name="meal_item">Meal Item</string>
+    <string name="meal_name">Meal Name</string>
+    <string name="category_count">Category Count</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="read_more">Read More...</string>
+</resources>

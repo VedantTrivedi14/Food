@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/_180sdp"
+    android:layout_height="@dimen/_90sdp"
+    android:elevation="@dimen/_5sdp"
+    app:cardCornerRadius="@dimen/_20sdp"
+    app:cardUseCompatPadding="true">
+
+    <ImageView
+        android:id="@+id/imgPopular"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/popular_item"
+        android:scaleType="centerCrop"
+        android:src="@drawable/baseline_search_24" />
+
+</androidx.cardview.widget.CardView>
